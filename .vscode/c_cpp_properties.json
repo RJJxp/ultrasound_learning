@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/rjp/turtlebot_test/tergeo-indoor/install_isolated/include",
+                "/opt/ros/kinetic/include",
+                "/home/rjp/catkin_ws/src/range_sensor/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
